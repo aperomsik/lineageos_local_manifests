@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  
+  <remote fetch="https://github.com/aperomsik/" name="aaopt" />
+  <remote fetch="https://github.com/Grouper-AOSP/" name="Grouper-AOSP" />
+  <remote fetch="https://github.com/AndDiSa/" name="ads" />
+  <remote fetch="https://github.com/GtrCraft/" name="GtrCraft" />
+  <remote fetch="https://github.com/Team-OctOS/" name="Team-OctOS" />
+
+</manifest>

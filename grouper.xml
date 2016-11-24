@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  
+ <project path="device/asus/grouper" name="cyanogenmod_android_device_asus_grouper" remote="aaopt" revision="cm-14.1" groups="device,grouper" />
+ <project path="kernel/asus/grouper" name="android_kernel_asus_grouper" remote="ads" revision="ads-7.0.1" />
+
+  <!-- 
+ <project path="external/libnfc-nxp" name="platform/external/libnfc-nxp" remote="ads" revision="ads-7.1" groups="pdk" />   
+ -->
+ <project path="vendor/asus" name="proprietary_vendor_asus" remote="ads" revision="ads-7.0.1" />
+ <project path="vendor/broadcom" name="proprietary_vendor_broadcom" remote="ads" revision="ads-7.0.1" />
+ <project path="vendor/elan" name="proprietary_vendor_elan" remote="ads" revision="oct-mm" />
+ <project path="vendor/invensense" name="proprietary_vendor_invensense" remote="ads" revision="ads-7.0.1" />
+ <project path="vendor/nvidia" name="proprietary_vendor_nvidia" remote="ads" revision="ads-7.0.1" />
+ <project path="vendor/widevine" name="proprietary_vendor_widevine" remote="ads" revision="ads-7.0.1" />
+
+</manifest>

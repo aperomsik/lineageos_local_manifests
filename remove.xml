@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!--
+
+Remove repositories I don't use, to save space on the output ROM,
+especially for grouper.  Even with these changes, opengapps-pico
+doesn't quite fit.
+
+  -->
+  
+  <remove-project name="CyanogenMod/android_packages_apps_Email" />
+  <remove-project name="CyanogenMod/android_packages_apps_Exchange" />
+  <remove-project name="CyanogenMod/android_packages_apps_CMUpdater" />
+  <remove-project name="CyanogenMod/android_frameworks_opt_setupwizard" />
+
+</manifest>
