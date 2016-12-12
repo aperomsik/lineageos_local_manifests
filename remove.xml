@@ -9,9 +9,7 @@ doesn't quite fit.
 
   -->
   
-  <remove-project name="CyanogenMod/android_packages_apps_Email" />
   <remove-project name="CyanogenMod/android_packages_apps_Exchange" />
   <remove-project name="CyanogenMod/android_packages_apps_CMUpdater" />
-  <remove-project name="CyanogenMod/android_frameworks_opt_setupwizard" />
 
 </manifest>
