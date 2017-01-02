@@ -9,7 +9,7 @@ doesn't quite fit.
 
   -->
   
-  <remove-project name="CyanogenMod/android_packages_apps_Exchange" />
-  <remove-project name="CyanogenMod/android_packages_apps_CMUpdater" />
+  <remove-project name="LineageOS/android_packages_apps_Exchange" />
+  <remove-project name="LineageOS/android_packages_apps_CMUpdater" />
 
 </manifest>
