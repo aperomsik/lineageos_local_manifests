@@ -10,6 +10,6 @@
  <project path="vendor/broadcom" name="proprietary_vendor_broadcom" remote="ads" revision="ads-7.0.1" />
  <project path="vendor/elan" name="proprietary_vendor_elan" remote="ads" revision="oct-mm" />
  <project path="vendor/invensense" name="proprietary_vendor_invensense" remote="ads" revision="ads-7.0.1" />
- <project path="vendor/nvidia" name="proprietary_vendor_nvidia" remote="ads" revision="ads-7.0.1" />
+ <project path="vendor/nvidia" name="proprietary_vendor_nvidia" remote="ads" revision="ads-7.1.0" />
 
 </manifest>
